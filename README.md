@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rohit21o
 - 👀 I’m interested in coding, video editing
-- 🌱 I’m currently learning cpp,c
+- 🌱 I’m currently learning cpp,c,Web Development
 - 💞️ I’m looking to collaborate on editing, coding
 - 📫 How to reach me rohitdhara219@gmail.com
 
